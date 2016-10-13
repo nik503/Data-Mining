@@ -7,7 +7,7 @@ This repository contains the below projects.
 Below are the files with their descriptions
 
 MapReduce.py - Software implementation of mapreduce framework.
-wordcount.py - Code with logic to implement the wordcount
+wordcount.py - Code with logic to implement the wordcount.
 words- JSON file with (name of the book, content) as (key,value) pair in json format.
 
 
